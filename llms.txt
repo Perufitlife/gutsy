@@ -1,0 +1,316 @@
+# Tumzy — low FODMAP food reference
+
+> 310 foods rated low, moderate or high FODMAP, each with a substitute. Ratings follow the low-FODMAP protocol from Monash University. Servings matter: a food that is low in a normal portion can be high in a large one.
+
+## Pages
+- [Low FODMAP food list](https://perufitlife.github.io/gutsy/low-fodmap-food-list/): the full table, by category.
+- [Is onion low FODMAP?](https://perufitlife.github.io/gutsy/is-onion-low-fodmap/): high (fructans). Swap: Green scallion tops or chives
+- [Is red onion low FODMAP?](https://perufitlife.github.io/gutsy/is-red-onion-low-fodmap/): high (fructans). Swap: Green scallion tops or chives
+- [Is white onion low FODMAP?](https://perufitlife.github.io/gutsy/is-white-onion-low-fodmap/): high (fructans). Swap: Green scallion tops or chives
+- [Is onion powder low FODMAP?](https://perufitlife.github.io/gutsy/is-onion-powder-low-fodmap/): high (fructans). Swap: Asafoetida pinch, or chive powder
+- [Is shallot low FODMAP?](https://perufitlife.github.io/gutsy/is-shallot-low-fodmap/): high (fructans). Swap: Green scallion tops
+- [Is garlic low FODMAP?](https://perufitlife.github.io/gutsy/is-garlic-low-fodmap/): high (fructans). Swap: Garlic-infused oil — the FODMAPs are not oil-soluble
+- [Is garlic powder low FODMAP?](https://perufitlife.github.io/gutsy/is-garlic-powder-low-fodmap/): high (fructans). Swap: Garlic-infused oil
+- [Is leek low FODMAP?](https://perufitlife.github.io/gutsy/is-leek-low-fodmap/): high (fructans). Swap: Leek leaves (green part only)
+- [Is spring onion low FODMAP?](https://perufitlife.github.io/gutsy/is-spring-onion-low-fodmap/): moderate (fructans). Swap: Use the green tops only
+- [Is scallion low FODMAP?](https://perufitlife.github.io/gutsy/is-scallion-low-fodmap/): moderate (fructans). Swap: Use the green tops only
+- [Is cauliflower low FODMAP?](https://perufitlife.github.io/gutsy/is-cauliflower-low-fodmap/): high (polyols). Swap: Broccoli heads or green beans
+- [Is mushroom low FODMAP?](https://perufitlife.github.io/gutsy/is-mushroom-low-fodmap/): high (polyols). Swap: Oyster mushrooms or canned champignon
+- [Is mushrooms low FODMAP?](https://perufitlife.github.io/gutsy/is-mushrooms-low-fodmap/): high (polyols). Swap: Oyster mushrooms or canned champignon
+- [Is artichoke low FODMAP?](https://perufitlife.github.io/gutsy/is-artichoke-low-fodmap/): high (fructans). Swap: Canned artichoke hearts in small amounts
+- [Is asparagus low FODMAP?](https://perufitlife.github.io/gutsy/is-asparagus-low-fodmap/): high (fructose). Swap: Green beans or zucchini
+- [Is sugar snap peas low FODMAP?](https://perufitlife.github.io/gutsy/is-sugar-snap-peas-low-fodmap/): high (polyols). Swap: Green beans
+- [Is snow peas low FODMAP?](https://perufitlife.github.io/gutsy/is-snow-peas-low-fodmap/): moderate (polyols). Swap: Limit to a few pods
+- [Is broccoli low FODMAP?](https://perufitlife.github.io/gutsy/is-broccoli-low-fodmap/): moderate (fructans). Swap: Heads are gentler than stalks
+- [Is brussels sprouts low FODMAP?](https://perufitlife.github.io/gutsy/is-brussels-sprouts-low-fodmap/): moderate (fructans). Swap: Small portion only
+- [Is cabbage low FODMAP?](https://perufitlife.github.io/gutsy/is-cabbage-low-fodmap/): moderate (fructans). Swap: Common cabbage in small servings
+- [Is savoy cabbage low FODMAP?](https://perufitlife.github.io/gutsy/is-savoy-cabbage-low-fodmap/): moderate (fructans). Swap: Small portion only
+- [Is corn low FODMAP?](https://perufitlife.github.io/gutsy/is-corn-low-fodmap/): moderate (sorbitol). Swap: Half a cob or less
+- [Is sweet corn low FODMAP?](https://perufitlife.github.io/gutsy/is-sweet-corn-low-fodmap/): moderate (sorbitol). Swap: Half a cob or less
+- [Is sweet potato low FODMAP?](https://perufitlife.github.io/gutsy/is-sweet-potato-low-fodmap/): moderate (mannitol). Swap: Regular potato
+- [Is celery low FODMAP?](https://perufitlife.github.io/gutsy/is-celery-low-fodmap/): moderate (mannitol). Swap: Small stalk, or use cucumber
+- [Is beetroot low FODMAP?](https://perufitlife.github.io/gutsy/is-beetroot-low-fodmap/): moderate (fructans). Swap: Small serving, or use carrot
+- [Is beets low FODMAP?](https://perufitlife.github.io/gutsy/is-beets-low-fodmap/): moderate (fructans). Swap: Small serving, or use carrot
+- [Is peas low FODMAP?](https://perufitlife.github.io/gutsy/is-peas-low-fodmap/): moderate (GOS). Swap: Green beans
+- [Is green peas low FODMAP?](https://perufitlife.github.io/gutsy/is-green-peas-low-fodmap/): moderate (GOS). Swap: Green beans
+- [Is butternut low FODMAP?](https://perufitlife.github.io/gutsy/is-butternut-low-fodmap/): moderate (mannitol). Swap: Small serving, or use pumpkin
+- [Is butternut squash low FODMAP?](https://perufitlife.github.io/gutsy/is-butternut-squash-low-fodmap/): moderate (mannitol). Swap: Small serving, or use pumpkin
+- [Is carrot low FODMAP?](https://perufitlife.github.io/gutsy/is-carrot-low-fodmap/): low. Swap: Safe in normal servings
+- [Is carrots low FODMAP?](https://perufitlife.github.io/gutsy/is-carrots-low-fodmap/): low. Swap: Safe in normal servings
+- [Is cucumber low FODMAP?](https://perufitlife.github.io/gutsy/is-cucumber-low-fodmap/): low. Swap: Safe in normal servings
+- [Is lettuce low FODMAP?](https://perufitlife.github.io/gutsy/is-lettuce-low-fodmap/): low. Swap: Safe in normal servings
+- [Is spinach low FODMAP?](https://perufitlife.github.io/gutsy/is-spinach-low-fodmap/): low. Swap: Safe in normal servings
+- [Is kale low FODMAP?](https://perufitlife.github.io/gutsy/is-kale-low-fodmap/): low. Swap: Safe in normal servings
+- [Is zucchini low FODMAP?](https://perufitlife.github.io/gutsy/is-zucchini-low-fodmap/): low. Swap: Safe up to about a cup
+- [Is courgette low FODMAP?](https://perufitlife.github.io/gutsy/is-courgette-low-fodmap/): low. Swap: Safe up to about a cup
+- [Is eggplant low FODMAP?](https://perufitlife.github.io/gutsy/is-eggplant-low-fodmap/): low. Swap: Safe in normal servings
+- [Is aubergine low FODMAP?](https://perufitlife.github.io/gutsy/is-aubergine-low-fodmap/): low. Swap: Safe in normal servings
+- [Is tomato low FODMAP?](https://perufitlife.github.io/gutsy/is-tomato-low-fodmap/): low. Swap: Safe in normal servings
+- [Is tomatoes low FODMAP?](https://perufitlife.github.io/gutsy/is-tomatoes-low-fodmap/): low. Swap: Safe in normal servings
+- [Is cherry tomatoes low FODMAP?](https://perufitlife.github.io/gutsy/is-cherry-tomatoes-low-fodmap/): low. Swap: Safe in normal servings
+- [Is bell pepper low FODMAP?](https://perufitlife.github.io/gutsy/is-bell-pepper-low-fodmap/): low. Swap: Red is best tolerated
+- [Is red pepper low FODMAP?](https://perufitlife.github.io/gutsy/is-red-pepper-low-fodmap/): low. Swap: Safe in normal servings
+- [Is capsicum low FODMAP?](https://perufitlife.github.io/gutsy/is-capsicum-low-fodmap/): low. Swap: Safe in normal servings
+- [Is green beans low FODMAP?](https://perufitlife.github.io/gutsy/is-green-beans-low-fodmap/): low. Swap: Safe in normal servings
+- [Is bok choy low FODMAP?](https://perufitlife.github.io/gutsy/is-bok-choy-low-fodmap/): low. Swap: Safe in normal servings
+- [Is pak choi low FODMAP?](https://perufitlife.github.io/gutsy/is-pak-choi-low-fodmap/): low. Swap: Safe in normal servings
+- [Is arugula low FODMAP?](https://perufitlife.github.io/gutsy/is-arugula-low-fodmap/): low. Swap: Safe in normal servings
+- [Is rocket low FODMAP?](https://perufitlife.github.io/gutsy/is-rocket-low-fodmap/): low. Swap: Safe in normal servings
+- [Is radish low FODMAP?](https://perufitlife.github.io/gutsy/is-radish-low-fodmap/): low. Swap: Safe in normal servings
+- [Is potato low FODMAP?](https://perufitlife.github.io/gutsy/is-potato-low-fodmap/): low. Swap: Safe in normal servings
+- [Is potatoes low FODMAP?](https://perufitlife.github.io/gutsy/is-potatoes-low-fodmap/): low. Swap: Safe in normal servings
+- [Is parsnip low FODMAP?](https://perufitlife.github.io/gutsy/is-parsnip-low-fodmap/): low. Swap: Safe in normal servings
+- [Is turnip low FODMAP?](https://perufitlife.github.io/gutsy/is-turnip-low-fodmap/): low. Swap: Safe in normal servings
+- [Is pumpkin low FODMAP?](https://perufitlife.github.io/gutsy/is-pumpkin-low-fodmap/): low. Swap: Safe in normal servings
+- [Is olives low FODMAP?](https://perufitlife.github.io/gutsy/is-olives-low-fodmap/): low. Swap: Safe in normal servings
+- [Is ginger low FODMAP?](https://perufitlife.github.io/gutsy/is-ginger-low-fodmap/): low. Swap: Safe — also settles nausea
+- [Is chives low FODMAP?](https://perufitlife.github.io/gutsy/is-chives-low-fodmap/): low. Swap: Great onion substitute
+- [Is water chestnut low FODMAP?](https://perufitlife.github.io/gutsy/is-water-chestnut-low-fodmap/): low. Swap: Safe in normal servings
+- [Is seaweed low FODMAP?](https://perufitlife.github.io/gutsy/is-seaweed-low-fodmap/): low. Swap: Safe in normal servings
+- [Is swiss chard low FODMAP?](https://perufitlife.github.io/gutsy/is-swiss-chard-low-fodmap/): low. Swap: Safe in normal servings
+- [Is fennel low FODMAP?](https://perufitlife.github.io/gutsy/is-fennel-low-fodmap/): moderate (fructans). Swap: Small serving of the bulb
+- [Is sauerkraut low FODMAP?](https://perufitlife.github.io/gutsy/is-sauerkraut-low-fodmap/): moderate (mannitol). Swap: Small serving only
+- [Is kimchi low FODMAP?](https://perufitlife.github.io/gutsy/is-kimchi-low-fodmap/): moderate (fructans). Swap: Small serving only
+- [Is apple low FODMAP?](https://perufitlife.github.io/gutsy/is-apple-low-fodmap/): high (fructose + sorbitol). Swap: Orange, kiwi or firm banana
+- [Is apples low FODMAP?](https://perufitlife.github.io/gutsy/is-apples-low-fodmap/): high (fructose + sorbitol). Swap: Orange, kiwi or firm banana
+- [Is pear low FODMAP?](https://perufitlife.github.io/gutsy/is-pear-low-fodmap/): high (fructose + sorbitol). Swap: Orange or kiwi
+- [Is mango low FODMAP?](https://perufitlife.github.io/gutsy/is-mango-low-fodmap/): high (fructose). Swap: Papaya or pineapple
+- [Is watermelon low FODMAP?](https://perufitlife.github.io/gutsy/is-watermelon-low-fodmap/): high (fructose + polyols). Swap: Cantaloupe or honeydew
+- [Is cherry low FODMAP?](https://perufitlife.github.io/gutsy/is-cherry-low-fodmap/): high (fructose + sorbitol). Swap: Strawberries or grapes
+- [Is cherries low FODMAP?](https://perufitlife.github.io/gutsy/is-cherries-low-fodmap/): high (fructose + sorbitol). Swap: Strawberries or grapes
+- [Is fig low FODMAP?](https://perufitlife.github.io/gutsy/is-fig-low-fodmap/): high (fructose). Swap: A small handful of grapes
+- [Is figs low FODMAP?](https://perufitlife.github.io/gutsy/is-figs-low-fodmap/): high (fructose). Swap: A small handful of grapes
+- [Is plum low FODMAP?](https://perufitlife.github.io/gutsy/is-plum-low-fodmap/): high (sorbitol). Swap: Kiwi or orange
+- [Is plums low FODMAP?](https://perufitlife.github.io/gutsy/is-plums-low-fodmap/): high (sorbitol). Swap: Kiwi or orange
+- [Is prune low FODMAP?](https://perufitlife.github.io/gutsy/is-prune-low-fodmap/): high (sorbitol). Swap: Kiwi (also helps regularity)
+- [Is prunes low FODMAP?](https://perufitlife.github.io/gutsy/is-prunes-low-fodmap/): high (sorbitol). Swap: Kiwi (also helps regularity)
+- [Is apricot low FODMAP?](https://perufitlife.github.io/gutsy/is-apricot-low-fodmap/): high (sorbitol). Swap: Orange or firm banana
+- [Is apricots low FODMAP?](https://perufitlife.github.io/gutsy/is-apricots-low-fodmap/): high (sorbitol). Swap: Orange or firm banana
+- [Is peach low FODMAP?](https://perufitlife.github.io/gutsy/is-peach-low-fodmap/): high (sorbitol). Swap: Orange or pineapple
+- [Is nectarine low FODMAP?](https://perufitlife.github.io/gutsy/is-nectarine-low-fodmap/): high (sorbitol). Swap: Orange or pineapple
+- [Is blackberry low FODMAP?](https://perufitlife.github.io/gutsy/is-blackberry-low-fodmap/): high (sorbitol). Swap: Blueberries or strawberries
+- [Is blackberries low FODMAP?](https://perufitlife.github.io/gutsy/is-blackberries-low-fodmap/): high (sorbitol). Swap: Blueberries or strawberries
+- [Is dried fruit low FODMAP?](https://perufitlife.github.io/gutsy/is-dried-fruit-low-fodmap/): high (fructose + fructans). Swap: Fresh fruit instead
+- [Is raisins low FODMAP?](https://perufitlife.github.io/gutsy/is-raisins-low-fodmap/): high (fructans). Swap: A small handful of fresh grapes
+- [Is sultanas low FODMAP?](https://perufitlife.github.io/gutsy/is-sultanas-low-fodmap/): high (fructans). Swap: Fresh grapes
+- [Is dates low FODMAP?](https://perufitlife.github.io/gutsy/is-dates-low-fodmap/): high (fructans). Swap: Fresh fruit instead
+- [Is persimmon low FODMAP?](https://perufitlife.github.io/gutsy/is-persimmon-low-fodmap/): high (fructans). Swap: Orange or kiwi
+- [Is lychee low FODMAP?](https://perufitlife.github.io/gutsy/is-lychee-low-fodmap/): high (fructose). Swap: Pineapple
+- [Is nashi low FODMAP?](https://perufitlife.github.io/gutsy/is-nashi-low-fodmap/): high (fructose + sorbitol). Swap: Orange
+- [Is avocado low FODMAP?](https://perufitlife.github.io/gutsy/is-avocado-low-fodmap/): moderate (sorbitol). Swap: About 1/8 of a whole avocado
+- [Is banana low FODMAP?](https://perufitlife.github.io/gutsy/is-banana-low-fodmap/): moderate (fructans). Swap: Firm/unripe banana is low; ripe is not
+- [Is ripe banana low FODMAP?](https://perufitlife.github.io/gutsy/is-ripe-banana-low-fodmap/): moderate (fructans). Swap: Choose a firmer, greener banana
+- [Is grapefruit low FODMAP?](https://perufitlife.github.io/gutsy/is-grapefruit-low-fodmap/): moderate (fructans). Swap: Orange or mandarin
+- [Is pomegranate low FODMAP?](https://perufitlife.github.io/gutsy/is-pomegranate-low-fodmap/): moderate (fructans). Swap: Small serving of seeds
+- [Is coconut low FODMAP?](https://perufitlife.github.io/gutsy/is-coconut-low-fodmap/): moderate (sorbitol). Swap: Small serving of shredded coconut
+- [Is coconut milk low FODMAP?](https://perufitlife.github.io/gutsy/is-coconut-milk-low-fodmap/): moderate (sorbitol). Swap: Limit to about half a cup
+- [Is orange low FODMAP?](https://perufitlife.github.io/gutsy/is-orange-low-fodmap/): low. Swap: Safe in normal servings
+- [Is oranges low FODMAP?](https://perufitlife.github.io/gutsy/is-oranges-low-fodmap/): low. Swap: Safe in normal servings
+- [Is mandarin low FODMAP?](https://perufitlife.github.io/gutsy/is-mandarin-low-fodmap/): low. Swap: Safe in normal servings
+- [Is clementine low FODMAP?](https://perufitlife.github.io/gutsy/is-clementine-low-fodmap/): low. Swap: Safe in normal servings
+- [Is strawberry low FODMAP?](https://perufitlife.github.io/gutsy/is-strawberry-low-fodmap/): low. Swap: Safe in normal servings
+- [Is strawberries low FODMAP?](https://perufitlife.github.io/gutsy/is-strawberries-low-fodmap/): low. Swap: Safe in normal servings
+- [Is blueberry low FODMAP?](https://perufitlife.github.io/gutsy/is-blueberry-low-fodmap/): low. Swap: Safe in normal servings
+- [Is blueberries low FODMAP?](https://perufitlife.github.io/gutsy/is-blueberries-low-fodmap/): low. Swap: Safe in normal servings
+- [Is raspberry low FODMAP?](https://perufitlife.github.io/gutsy/is-raspberry-low-fodmap/): low. Swap: Safe up to about 1/2 cup
+- [Is raspberries low FODMAP?](https://perufitlife.github.io/gutsy/is-raspberries-low-fodmap/): low. Swap: Safe up to about 1/2 cup
+- [Is grape low FODMAP?](https://perufitlife.github.io/gutsy/is-grape-low-fodmap/): low. Swap: Safe in normal servings
+- [Is grapes low FODMAP?](https://perufitlife.github.io/gutsy/is-grapes-low-fodmap/): low. Swap: Safe in normal servings
+- [Is kiwi low FODMAP?](https://perufitlife.github.io/gutsy/is-kiwi-low-fodmap/): low. Swap: Safe in normal servings
+- [Is pineapple low FODMAP?](https://perufitlife.github.io/gutsy/is-pineapple-low-fodmap/): low. Swap: Safe in normal servings
+- [Is cantaloupe low FODMAP?](https://perufitlife.github.io/gutsy/is-cantaloupe-low-fodmap/): low. Swap: Safe up to about a cup
+- [Is honeydew low FODMAP?](https://perufitlife.github.io/gutsy/is-honeydew-low-fodmap/): low. Swap: Safe up to about a cup
+- [Is papaya low FODMAP?](https://perufitlife.github.io/gutsy/is-papaya-low-fodmap/): low. Swap: Safe in normal servings
+- [Is lemon low FODMAP?](https://perufitlife.github.io/gutsy/is-lemon-low-fodmap/): low. Swap: Safe in normal servings
+- [Is lime low FODMAP?](https://perufitlife.github.io/gutsy/is-lime-low-fodmap/): low. Swap: Safe in normal servings
+- [Is passionfruit low FODMAP?](https://perufitlife.github.io/gutsy/is-passionfruit-low-fodmap/): low. Swap: Safe in normal servings
+- [Is rhubarb low FODMAP?](https://perufitlife.github.io/gutsy/is-rhubarb-low-fodmap/): low. Swap: Safe in normal servings
+- [Is dragon fruit low FODMAP?](https://perufitlife.github.io/gutsy/is-dragon-fruit-low-fodmap/): low. Swap: Safe in normal servings
+- [Is wheat low FODMAP?](https://perufitlife.github.io/gutsy/is-wheat-low-fodmap/): high (fructans). Swap: Sourdough spelt, or gluten-free grains
+- [Is bread low FODMAP?](https://perufitlife.github.io/gutsy/is-bread-low-fodmap/): high (fructans). Swap: Genuine sourdough or gluten-free bread
+- [Is white bread low FODMAP?](https://perufitlife.github.io/gutsy/is-white-bread-low-fodmap/): high (fructans). Swap: Genuine sourdough or gluten-free bread
+- [Is wheat bread low FODMAP?](https://perufitlife.github.io/gutsy/is-wheat-bread-low-fodmap/): high (fructans). Swap: Genuine sourdough or gluten-free bread
+- [Is toast low FODMAP?](https://perufitlife.github.io/gutsy/is-toast-low-fodmap/): high (fructans). Swap: Sourdough or gluten-free toast
+- [Is pasta low FODMAP?](https://perufitlife.github.io/gutsy/is-pasta-low-fodmap/): high (fructans). Swap: Rice, corn or quinoa pasta
+- [Is spaghetti low FODMAP?](https://perufitlife.github.io/gutsy/is-spaghetti-low-fodmap/): high (fructans). Swap: Rice or corn pasta
+- [Is noodles low FODMAP?](https://perufitlife.github.io/gutsy/is-noodles-low-fodmap/): high (fructans). Swap: Rice noodles or 100% buckwheat soba
+- [Is ramen low FODMAP?](https://perufitlife.github.io/gutsy/is-ramen-low-fodmap/): high (fructans). Swap: Rice noodles in a garlic-free broth
+- [Is couscous low FODMAP?](https://perufitlife.github.io/gutsy/is-couscous-low-fodmap/): high (fructans). Swap: Quinoa
+- [Is bagel low FODMAP?](https://perufitlife.github.io/gutsy/is-bagel-low-fodmap/): high (fructans). Swap: Sourdough or gluten-free bread
+- [Is croissant low FODMAP?](https://perufitlife.github.io/gutsy/is-croissant-low-fodmap/): high (fructans). Swap: Gluten-free pastry
+- [Is tortilla low FODMAP?](https://perufitlife.github.io/gutsy/is-tortilla-low-fodmap/): high (fructans). Swap: Corn tortilla
+- [Is flour tortilla low FODMAP?](https://perufitlife.github.io/gutsy/is-flour-tortilla-low-fodmap/): high (fructans). Swap: Corn tortilla
+- [Is pizza low FODMAP?](https://perufitlife.github.io/gutsy/is-pizza-low-fodmap/): high (fructans). Swap: Gluten-free base, no onion/garlic sauce
+- [Is barley low FODMAP?](https://perufitlife.github.io/gutsy/is-barley-low-fodmap/): high (fructans). Swap: Rice or quinoa
+- [Is rye low FODMAP?](https://perufitlife.github.io/gutsy/is-rye-low-fodmap/): high (fructans). Swap: Genuine rye sourdough in small amounts
+- [Is cracker low FODMAP?](https://perufitlife.github.io/gutsy/is-cracker-low-fodmap/): high (fructans). Swap: Rice crackers or corn thins
+- [Is crackers low FODMAP?](https://perufitlife.github.io/gutsy/is-crackers-low-fodmap/): high (fructans). Swap: Rice crackers or corn thins
+- [Is pretzel low FODMAP?](https://perufitlife.github.io/gutsy/is-pretzel-low-fodmap/): high (fructans). Swap: Corn chips or rice crackers
+- [Is muffin low FODMAP?](https://perufitlife.github.io/gutsy/is-muffin-low-fodmap/): high (fructans). Swap: Gluten-free muffin
+- [Is pancake low FODMAP?](https://perufitlife.github.io/gutsy/is-pancake-low-fodmap/): high (fructans). Swap: Buckwheat or gluten-free pancakes
+- [Is waffle low FODMAP?](https://perufitlife.github.io/gutsy/is-waffle-low-fodmap/): high (fructans). Swap: Gluten-free waffles
+- [Is cereal low FODMAP?](https://perufitlife.github.io/gutsy/is-cereal-low-fodmap/): moderate (fructans). Swap: Oats, rice puffs or corn flakes
+- [Is granola low FODMAP?](https://perufitlife.github.io/gutsy/is-granola-low-fodmap/): moderate (fructans). Swap: Check for honey, dried fruit and cashews
+- [Is muesli low FODMAP?](https://perufitlife.github.io/gutsy/is-muesli-low-fodmap/): moderate (fructans). Swap: Oats with low-FODMAP fruit
+- [Is rice low FODMAP?](https://perufitlife.github.io/gutsy/is-rice-low-fodmap/): low. Swap: Safe in normal servings
+- [Is white rice low FODMAP?](https://perufitlife.github.io/gutsy/is-white-rice-low-fodmap/): low. Swap: Safe in normal servings
+- [Is brown rice low FODMAP?](https://perufitlife.github.io/gutsy/is-brown-rice-low-fodmap/): low. Swap: Safe in normal servings
+- [Is oats low FODMAP?](https://perufitlife.github.io/gutsy/is-oats-low-fodmap/): low. Swap: Safe up to about 1/2 cup dry
+- [Is oatmeal low FODMAP?](https://perufitlife.github.io/gutsy/is-oatmeal-low-fodmap/): low. Swap: Safe up to about 1/2 cup dry
+- [Is porridge low FODMAP?](https://perufitlife.github.io/gutsy/is-porridge-low-fodmap/): low. Swap: Safe with lactose-free or oat milk
+- [Is quinoa low FODMAP?](https://perufitlife.github.io/gutsy/is-quinoa-low-fodmap/): low. Swap: Safe in normal servings
+- [Is buckwheat low FODMAP?](https://perufitlife.github.io/gutsy/is-buckwheat-low-fodmap/): low. Swap: Safe in normal servings
+- [Is polenta low FODMAP?](https://perufitlife.github.io/gutsy/is-polenta-low-fodmap/): low. Swap: Safe in normal servings
+- [Is millet low FODMAP?](https://perufitlife.github.io/gutsy/is-millet-low-fodmap/): low. Swap: Safe in normal servings
+- [Is sourdough low FODMAP?](https://perufitlife.github.io/gutsy/is-sourdough-low-fodmap/): low. Swap: Genuine long-fermented sourdough only
+- [Is gluten free bread low FODMAP?](https://perufitlife.github.io/gutsy/is-gluten-free-bread-low-fodmap/): low. Swap: Safe in normal servings
+- [Is rice noodles low FODMAP?](https://perufitlife.github.io/gutsy/is-rice-noodles-low-fodmap/): low. Swap: Safe in normal servings
+- [Is corn tortilla low FODMAP?](https://perufitlife.github.io/gutsy/is-corn-tortilla-low-fodmap/): low. Swap: Safe in normal servings
+- [Is rice cakes low FODMAP?](https://perufitlife.github.io/gutsy/is-rice-cakes-low-fodmap/): low. Swap: Safe in normal servings
+- [Is corn chips low FODMAP?](https://perufitlife.github.io/gutsy/is-corn-chips-low-fodmap/): low. Swap: Safe in normal servings
+- [Is popcorn low FODMAP?](https://perufitlife.github.io/gutsy/is-popcorn-low-fodmap/): low. Swap: Safe up to a few cups popped
+- [Is milk low FODMAP?](https://perufitlife.github.io/gutsy/is-milk-low-fodmap/): high (lactose). Swap: Lactose-free, almond or oat milk
+- [Is cow milk low FODMAP?](https://perufitlife.github.io/gutsy/is-cow-milk-low-fodmap/): high (lactose). Swap: Lactose-free milk
+- [Is skim milk low FODMAP?](https://perufitlife.github.io/gutsy/is-skim-milk-low-fodmap/): high (lactose). Swap: Lactose-free milk
+- [Is ice cream low FODMAP?](https://perufitlife.github.io/gutsy/is-ice-cream-low-fodmap/): high (lactose). Swap: Sorbet, or lactose-free ice cream
+- [Is yogurt low FODMAP?](https://perufitlife.github.io/gutsy/is-yogurt-low-fodmap/): high (lactose). Swap: Lactose-free or coconut yogurt
+- [Is yoghurt low FODMAP?](https://perufitlife.github.io/gutsy/is-yoghurt-low-fodmap/): high (lactose). Swap: Lactose-free or coconut yogurt
+- [Is greek yogurt low FODMAP?](https://perufitlife.github.io/gutsy/is-greek-yogurt-low-fodmap/): high (lactose). Swap: Lactose-free Greek yogurt
+- [Is custard low FODMAP?](https://perufitlife.github.io/gutsy/is-custard-low-fodmap/): high (lactose). Swap: Lactose-free custard
+- [Is ricotta low FODMAP?](https://perufitlife.github.io/gutsy/is-ricotta-low-fodmap/): high (lactose). Swap: Firm cheese like cheddar
+- [Is cream low FODMAP?](https://perufitlife.github.io/gutsy/is-cream-low-fodmap/): high (lactose). Swap: Lactose-free cream or coconut cream
+- [Is milkshake low FODMAP?](https://perufitlife.github.io/gutsy/is-milkshake-low-fodmap/): high (lactose). Swap: Lactose-free milk blended with berries
+- [Is condensed milk low FODMAP?](https://perufitlife.github.io/gutsy/is-condensed-milk-low-fodmap/): high (lactose). Swap: Lactose-free alternatives
+- [Is soft cheese low FODMAP?](https://perufitlife.github.io/gutsy/is-soft-cheese-low-fodmap/): high (lactose). Swap: Hard aged cheese
+- [Is cream cheese low FODMAP?](https://perufitlife.github.io/gutsy/is-cream-cheese-low-fodmap/): moderate (lactose). Swap: Limit to about 2 tablespoons
+- [Is cottage cheese low FODMAP?](https://perufitlife.github.io/gutsy/is-cottage-cheese-low-fodmap/): moderate (lactose). Swap: Limit to about 2 tablespoons
+- [Is latte low FODMAP?](https://perufitlife.github.io/gutsy/is-latte-low-fodmap/): moderate (lactose). Swap: Order it with lactose-free or almond milk
+- [Is cappuccino low FODMAP?](https://perufitlife.github.io/gutsy/is-cappuccino-low-fodmap/): moderate (lactose). Swap: Order it with lactose-free or almond milk
+- [Is lactose free milk low FODMAP?](https://perufitlife.github.io/gutsy/is-lactose-free-milk-low-fodmap/): low. Swap: Safe in normal servings
+- [Is almond milk low FODMAP?](https://perufitlife.github.io/gutsy/is-almond-milk-low-fodmap/): low. Swap: Safe in normal servings
+- [Is oat milk low FODMAP?](https://perufitlife.github.io/gutsy/is-oat-milk-low-fodmap/): low. Swap: Safe up to about half a cup
+- [Is rice milk low FODMAP?](https://perufitlife.github.io/gutsy/is-rice-milk-low-fodmap/): low. Swap: Safe up to about 3/4 cup
+- [Is cheddar low FODMAP?](https://perufitlife.github.io/gutsy/is-cheddar-low-fodmap/): low. Swap: Safe in normal servings
+- [Is parmesan low FODMAP?](https://perufitlife.github.io/gutsy/is-parmesan-low-fodmap/): low. Swap: Safe in normal servings
+- [Is mozzarella low FODMAP?](https://perufitlife.github.io/gutsy/is-mozzarella-low-fodmap/): low. Swap: Safe in normal servings
+- [Is brie low FODMAP?](https://perufitlife.github.io/gutsy/is-brie-low-fodmap/): low. Swap: Safe in normal servings
+- [Is camembert low FODMAP?](https://perufitlife.github.io/gutsy/is-camembert-low-fodmap/): low. Swap: Safe in normal servings
+- [Is feta low FODMAP?](https://perufitlife.github.io/gutsy/is-feta-low-fodmap/): low. Swap: Safe in normal servings
+- [Is swiss low FODMAP?](https://perufitlife.github.io/gutsy/is-swiss-low-fodmap/): low. Swap: Safe in normal servings
+- [Is hard cheese low FODMAP?](https://perufitlife.github.io/gutsy/is-hard-cheese-low-fodmap/): low. Swap: Aged cheeses are naturally low in lactose
+- [Is butter low FODMAP?](https://perufitlife.github.io/gutsy/is-butter-low-fodmap/): low. Swap: Safe in normal servings
+- [Is lactose free yogurt low FODMAP?](https://perufitlife.github.io/gutsy/is-lactose-free-yogurt-low-fodmap/): low. Swap: Safe in normal servings
+- [Is beans low FODMAP?](https://perufitlife.github.io/gutsy/is-beans-low-fodmap/): high (GOS). Swap: Canned lentils, rinsed, in small amounts
+- [Is black beans low FODMAP?](https://perufitlife.github.io/gutsy/is-black-beans-low-fodmap/): high (GOS). Swap: Canned lentils, rinsed (1/4 cup)
+- [Is kidney beans low FODMAP?](https://perufitlife.github.io/gutsy/is-kidney-beans-low-fodmap/): high (GOS). Swap: Canned lentils, rinsed (1/4 cup)
+- [Is baked beans low FODMAP?](https://perufitlife.github.io/gutsy/is-baked-beans-low-fodmap/): high (GOS). Swap: Small serving of canned lentils
+- [Is soy beans low FODMAP?](https://perufitlife.github.io/gutsy/is-soy-beans-low-fodmap/): high (GOS). Swap: Firm tofu
+- [Is falafel low FODMAP?](https://perufitlife.github.io/gutsy/is-falafel-low-fodmap/): high (GOS). Swap: Grilled chicken or firm tofu
+- [Is chickpeas low FODMAP?](https://perufitlife.github.io/gutsy/is-chickpeas-low-fodmap/): moderate (GOS). Swap: Canned and rinsed, about 1/4 cup
+- [Is chickpea low FODMAP?](https://perufitlife.github.io/gutsy/is-chickpea-low-fodmap/): moderate (GOS). Swap: Canned and rinsed, about 1/4 cup
+- [Is hummus low FODMAP?](https://perufitlife.github.io/gutsy/is-hummus-low-fodmap/): moderate (GOS). Swap: Limit to about 2 tablespoons
+- [Is lentils low FODMAP?](https://perufitlife.github.io/gutsy/is-lentils-low-fodmap/): moderate (GOS). Swap: Canned and rinsed, about 1/2 cup
+- [Is lentil low FODMAP?](https://perufitlife.github.io/gutsy/is-lentil-low-fodmap/): moderate (GOS). Swap: Canned and rinsed, about 1/2 cup
+- [Is soy low FODMAP?](https://perufitlife.github.io/gutsy/is-soy-low-fodmap/): moderate (GOS). Swap: Firm tofu instead of soy milk
+- [Is soy milk low FODMAP?](https://perufitlife.github.io/gutsy/is-soy-milk-low-fodmap/): high (GOS). Swap: Soy protein milk, almond or lactose-free milk
+- [Is sausage low FODMAP?](https://perufitlife.github.io/gutsy/is-sausage-low-fodmap/): moderate (fructans). Swap: Check for onion and garlic in the filler
+- [Is chicken low FODMAP?](https://perufitlife.github.io/gutsy/is-chicken-low-fodmap/): low. Swap: Plain meat has no FODMAPs
+- [Is beef low FODMAP?](https://perufitlife.github.io/gutsy/is-beef-low-fodmap/): low. Swap: Plain meat has no FODMAPs
+- [Is pork low FODMAP?](https://perufitlife.github.io/gutsy/is-pork-low-fodmap/): low. Swap: Plain meat has no FODMAPs
+- [Is lamb low FODMAP?](https://perufitlife.github.io/gutsy/is-lamb-low-fodmap/): low. Swap: Plain meat has no FODMAPs
+- [Is turkey low FODMAP?](https://perufitlife.github.io/gutsy/is-turkey-low-fodmap/): low. Swap: Plain meat has no FODMAPs
+- [Is bacon low FODMAP?](https://perufitlife.github.io/gutsy/is-bacon-low-fodmap/): low. Swap: Safe — watch the marinade
+- [Is ham low FODMAP?](https://perufitlife.github.io/gutsy/is-ham-low-fodmap/): low. Swap: Safe — watch for added onion/garlic
+- [Is egg low FODMAP?](https://perufitlife.github.io/gutsy/is-egg-low-fodmap/): low. Swap: Safe in normal servings
+- [Is eggs low FODMAP?](https://perufitlife.github.io/gutsy/is-eggs-low-fodmap/): low. Swap: Safe in normal servings
+- [Is fish low FODMAP?](https://perufitlife.github.io/gutsy/is-fish-low-fodmap/): low. Swap: Safe in normal servings
+- [Is salmon low FODMAP?](https://perufitlife.github.io/gutsy/is-salmon-low-fodmap/): low. Swap: Safe in normal servings
+- [Is tuna low FODMAP?](https://perufitlife.github.io/gutsy/is-tuna-low-fodmap/): low. Swap: Safe in normal servings
+- [Is cod low FODMAP?](https://perufitlife.github.io/gutsy/is-cod-low-fodmap/): low. Swap: Safe in normal servings
+- [Is shrimp low FODMAP?](https://perufitlife.github.io/gutsy/is-shrimp-low-fodmap/): low. Swap: Safe in normal servings
+- [Is prawns low FODMAP?](https://perufitlife.github.io/gutsy/is-prawns-low-fodmap/): low. Swap: Safe in normal servings
+- [Is tofu low FODMAP?](https://perufitlife.github.io/gutsy/is-tofu-low-fodmap/): low. Swap: Firm tofu only — silken is not
+- [Is firm tofu low FODMAP?](https://perufitlife.github.io/gutsy/is-firm-tofu-low-fodmap/): low. Swap: Safe in normal servings
+- [Is tempeh low FODMAP?](https://perufitlife.github.io/gutsy/is-tempeh-low-fodmap/): low. Swap: Safe in normal servings
+- [Is cashew low FODMAP?](https://perufitlife.github.io/gutsy/is-cashew-low-fodmap/): high (GOS + fructans). Swap: Peanuts, walnuts or macadamias
+- [Is cashews low FODMAP?](https://perufitlife.github.io/gutsy/is-cashews-low-fodmap/): high (GOS + fructans). Swap: Peanuts, walnuts or macadamias
+- [Is pistachio low FODMAP?](https://perufitlife.github.io/gutsy/is-pistachio-low-fodmap/): high (GOS + fructans). Swap: Peanuts or walnuts
+- [Is pistachios low FODMAP?](https://perufitlife.github.io/gutsy/is-pistachios-low-fodmap/): high (GOS + fructans). Swap: Peanuts or walnuts
+- [Is almond low FODMAP?](https://perufitlife.github.io/gutsy/is-almond-low-fodmap/): moderate (GOS). Swap: Limit to about 10 nuts
+- [Is almonds low FODMAP?](https://perufitlife.github.io/gutsy/is-almonds-low-fodmap/): moderate (GOS). Swap: Limit to about 10 nuts
+- [Is hazelnut low FODMAP?](https://perufitlife.github.io/gutsy/is-hazelnut-low-fodmap/): moderate (GOS). Swap: Limit to about 10 nuts
+- [Is hazelnuts low FODMAP?](https://perufitlife.github.io/gutsy/is-hazelnuts-low-fodmap/): moderate (GOS). Swap: Limit to about 10 nuts
+- [Is peanuts low FODMAP?](https://perufitlife.github.io/gutsy/is-peanuts-low-fodmap/): low. Swap: Safe in normal servings
+- [Is peanut butter low FODMAP?](https://perufitlife.github.io/gutsy/is-peanut-butter-low-fodmap/): low. Swap: Safe — check for added honey
+- [Is walnuts low FODMAP?](https://perufitlife.github.io/gutsy/is-walnuts-low-fodmap/): low. Swap: Safe in normal servings
+- [Is macadamia low FODMAP?](https://perufitlife.github.io/gutsy/is-macadamia-low-fodmap/): low. Swap: Safe in normal servings
+- [Is pecan low FODMAP?](https://perufitlife.github.io/gutsy/is-pecan-low-fodmap/): low. Swap: Safe in normal servings
+- [Is pumpkin seeds low FODMAP?](https://perufitlife.github.io/gutsy/is-pumpkin-seeds-low-fodmap/): low. Swap: Safe in normal servings
+- [Is sunflower seeds low FODMAP?](https://perufitlife.github.io/gutsy/is-sunflower-seeds-low-fodmap/): low. Swap: Safe up to about 2 tablespoons
+- [Is chia seeds low FODMAP?](https://perufitlife.github.io/gutsy/is-chia-seeds-low-fodmap/): low. Swap: Safe up to about 2 tablespoons
+- [Is sesame seeds low FODMAP?](https://perufitlife.github.io/gutsy/is-sesame-seeds-low-fodmap/): low. Swap: Safe in normal servings
+- [Is flax seeds low FODMAP?](https://perufitlife.github.io/gutsy/is-flax-seeds-low-fodmap/): low. Swap: Safe up to about 1 tablespoon
+- [Is apple juice low FODMAP?](https://perufitlife.github.io/gutsy/is-apple-juice-low-fodmap/): high (fructose). Swap: Orange juice (small glass)
+- [Is pear juice low FODMAP?](https://perufitlife.github.io/gutsy/is-pear-juice-low-fodmap/): high (fructose). Swap: Orange juice (small glass)
+- [Is fruit juice low FODMAP?](https://perufitlife.github.io/gutsy/is-fruit-juice-low-fodmap/): moderate (fructose). Swap: Small glass of orange juice
+- [Is rum low FODMAP?](https://perufitlife.github.io/gutsy/is-rum-low-fodmap/): high (fructose). Swap: Vodka, gin or dry wine
+- [Is cider low FODMAP?](https://perufitlife.github.io/gutsy/is-cider-low-fodmap/): high (fructose). Swap: Dry wine or a plain beer
+- [Is sweet wine low FODMAP?](https://perufitlife.github.io/gutsy/is-sweet-wine-low-fodmap/): high (fructose). Swap: Dry white or red wine
+- [Is kombucha low FODMAP?](https://perufitlife.github.io/gutsy/is-kombucha-low-fodmap/): moderate (fructans). Swap: Limit to about 1/2 cup
+- [Is beer low FODMAP?](https://perufitlife.github.io/gutsy/is-beer-low-fodmap/): moderate (fructans). Swap: One serving is usually tolerated
+- [Is soda low FODMAP?](https://perufitlife.github.io/gutsy/is-soda-low-fodmap/): moderate (fructose). Swap: Check for HFCS — try soda water with lime
+- [Is cola low FODMAP?](https://perufitlife.github.io/gutsy/is-cola-low-fodmap/): moderate (fructose). Swap: Soda water with lime
+- [Is energy drink low FODMAP?](https://perufitlife.github.io/gutsy/is-energy-drink-low-fodmap/): moderate (fructose). Swap: Black coffee or green tea
+- [Is chamomile tea low FODMAP?](https://perufitlife.github.io/gutsy/is-chamomile-tea-low-fodmap/): high (fructans). Swap: Peppermint or green tea
+- [Is oolong tea low FODMAP?](https://perufitlife.github.io/gutsy/is-oolong-tea-low-fodmap/): moderate (fructans). Swap: Green or peppermint tea
+- [Is coffee low FODMAP?](https://perufitlife.github.io/gutsy/is-coffee-low-fodmap/): low. Swap: Low FODMAP — but caffeine can still trigger gut symptoms
+- [Is black coffee low FODMAP?](https://perufitlife.github.io/gutsy/is-black-coffee-low-fodmap/): low. Swap: Low FODMAP — caffeine may still be a trigger
+- [Is espresso low FODMAP?](https://perufitlife.github.io/gutsy/is-espresso-low-fodmap/): low. Swap: Low FODMAP — caffeine may still be a trigger
+- [Is green tea low FODMAP?](https://perufitlife.github.io/gutsy/is-green-tea-low-fodmap/): low. Swap: Safe in normal servings
+- [Is peppermint tea low FODMAP?](https://perufitlife.github.io/gutsy/is-peppermint-tea-low-fodmap/): low. Swap: Safe — peppermint may also ease cramps
+- [Is black tea low FODMAP?](https://perufitlife.github.io/gutsy/is-black-tea-low-fodmap/): low. Swap: Safe — brew weak
+- [Is water low FODMAP?](https://perufitlife.github.io/gutsy/is-water-low-fodmap/): low. Swap: Always safe
+- [Is sparkling water low FODMAP?](https://perufitlife.github.io/gutsy/is-sparkling-water-low-fodmap/): low. Swap: Safe — bubbles can add bloating for some
+- [Is orange juice low FODMAP?](https://perufitlife.github.io/gutsy/is-orange-juice-low-fodmap/): low. Swap: Safe up to about half a cup
+- [Is wine low FODMAP?](https://perufitlife.github.io/gutsy/is-wine-low-fodmap/): low. Swap: Dry wine, one glass
+- [Is red wine low FODMAP?](https://perufitlife.github.io/gutsy/is-red-wine-low-fodmap/): low. Swap: One glass
+- [Is white wine low FODMAP?](https://perufitlife.github.io/gutsy/is-white-wine-low-fodmap/): low. Swap: Dry white, one glass
+- [Is vodka low FODMAP?](https://perufitlife.github.io/gutsy/is-vodka-low-fodmap/): low. Swap: One serving
+- [Is gin low FODMAP?](https://perufitlife.github.io/gutsy/is-gin-low-fodmap/): low. Swap: One serving
+- [Is whiskey low FODMAP?](https://perufitlife.github.io/gutsy/is-whiskey-low-fodmap/): low. Swap: One serving
+- [Is honey low FODMAP?](https://perufitlife.github.io/gutsy/is-honey-low-fodmap/): high (fructose). Swap: Maple syrup
+- [Is agave low FODMAP?](https://perufitlife.github.io/gutsy/is-agave-low-fodmap/): high (fructose). Swap: Maple syrup
+- [Is high fructose corn syrup low FODMAP?](https://perufitlife.github.io/gutsy/is-high-fructose-corn-syrup-low-fodmap/): high (fructose). Swap: Maple syrup or plain sugar
+- [Is sugar free gum low FODMAP?](https://perufitlife.github.io/gutsy/is-sugar-free-gum-low-fodmap/): high (polyols). Swap: Regular sugar-sweetened gum
+- [Is sorbitol low FODMAP?](https://perufitlife.github.io/gutsy/is-sorbitol-low-fodmap/): high (polyols). Swap: Avoid — common in sugar-free products
+- [Is xylitol low FODMAP?](https://perufitlife.github.io/gutsy/is-xylitol-low-fodmap/): high (polyols). Swap: Avoid — common in sugar-free products
+- [Is mannitol low FODMAP?](https://perufitlife.github.io/gutsy/is-mannitol-low-fodmap/): high (polyols). Swap: Avoid — common in sugar-free products
+- [Is maltitol low FODMAP?](https://perufitlife.github.io/gutsy/is-maltitol-low-fodmap/): high (polyols). Swap: Avoid — common in sugar-free products
+- [Is inulin low FODMAP?](https://perufitlife.github.io/gutsy/is-inulin-low-fodmap/): high (fructans). Swap: Avoid — often added as "chicory root fibre"
+- [Is chicory root low FODMAP?](https://perufitlife.github.io/gutsy/is-chicory-root-low-fodmap/): high (fructans). Swap: Avoid — a hidden fructan in fibre bars
+- [Is cake low FODMAP?](https://perufitlife.github.io/gutsy/is-cake-low-fodmap/): high (fructans). Swap: Gluten-free cake
+- [Is cookie low FODMAP?](https://perufitlife.github.io/gutsy/is-cookie-low-fodmap/): high (fructans). Swap: Gluten-free or oat cookies
+- [Is cookies low FODMAP?](https://perufitlife.github.io/gutsy/is-cookies-low-fodmap/): high (fructans). Swap: Gluten-free or oat cookies
+- [Is donut low FODMAP?](https://perufitlife.github.io/gutsy/is-donut-low-fodmap/): high (fructans). Swap: Gluten-free treat
+- [Is pastry low FODMAP?](https://perufitlife.github.io/gutsy/is-pastry-low-fodmap/): high (fructans). Swap: Gluten-free pastry
+- [Is milk chocolate low FODMAP?](https://perufitlife.github.io/gutsy/is-milk-chocolate-low-fodmap/): moderate (lactose). Swap: Dark chocolate (about 30g)
+- [Is white chocolate low FODMAP?](https://perufitlife.github.io/gutsy/is-white-chocolate-low-fodmap/): moderate (lactose). Swap: Dark chocolate
+- [Is ketchup low FODMAP?](https://perufitlife.github.io/gutsy/is-ketchup-low-fodmap/): moderate (fructose). Swap: Check for HFCS and onion
+- [Is barbecue sauce low FODMAP?](https://perufitlife.github.io/gutsy/is-barbecue-sauce-low-fodmap/): moderate (fructose). Swap: Check for HFCS, onion and garlic
+- [Is pasta sauce low FODMAP?](https://perufitlife.github.io/gutsy/is-pasta-sauce-low-fodmap/): moderate (fructans). Swap: Onion- and garlic-free sauce
+- [Is stock cube low FODMAP?](https://perufitlife.github.io/gutsy/is-stock-cube-low-fodmap/): high (fructans). Swap: Onion- and garlic-free stock
+- [Is dark chocolate low FODMAP?](https://perufitlife.github.io/gutsy/is-dark-chocolate-low-fodmap/): low. Swap: Safe up to about 30g
+- [Is maple syrup low FODMAP?](https://perufitlife.github.io/gutsy/is-maple-syrup-low-fodmap/): low. Swap: Safe in normal servings
+- [Is sugar low FODMAP?](https://perufitlife.github.io/gutsy/is-sugar-low-fodmap/): low. Swap: Plain table sugar is low FODMAP
+- [Is olive oil low FODMAP?](https://perufitlife.github.io/gutsy/is-olive-oil-low-fodmap/): low. Swap: All oils are FODMAP-free
+- [Is garlic infused oil low FODMAP?](https://perufitlife.github.io/gutsy/is-garlic-infused-oil-low-fodmap/): low. Swap: The safe way to get garlic flavour
+- [Is salt low FODMAP?](https://perufitlife.github.io/gutsy/is-salt-low-fodmap/): low. Swap: Safe
+- [Is pepper low FODMAP?](https://perufitlife.github.io/gutsy/is-pepper-low-fodmap/): low. Swap: Safe
+- [Is basil low FODMAP?](https://perufitlife.github.io/gutsy/is-basil-low-fodmap/): low. Swap: Safe
+- [Is oregano low FODMAP?](https://perufitlife.github.io/gutsy/is-oregano-low-fodmap/): low. Swap: Safe
+- [Is cinnamon low FODMAP?](https://perufitlife.github.io/gutsy/is-cinnamon-low-fodmap/): low. Swap: Safe
+- [Is turmeric low FODMAP?](https://perufitlife.github.io/gutsy/is-turmeric-low-fodmap/): low. Swap: Safe
+- [Is mustard low FODMAP?](https://perufitlife.github.io/gutsy/is-mustard-low-fodmap/): low. Swap: Safe in normal servings
+- [Is mayonnaise low FODMAP?](https://perufitlife.github.io/gutsy/is-mayonnaise-low-fodmap/): low. Swap: Safe — check for garlic
+- [Is soy sauce low FODMAP?](https://perufitlife.github.io/gutsy/is-soy-sauce-low-fodmap/): low. Swap: Safe in normal servings
+- [Is vinegar low FODMAP?](https://perufitlife.github.io/gutsy/is-vinegar-low-fodmap/): low. Swap: Safe in normal servings
