@@ -52,6 +52,9 @@ const page = ({ head, desc, canonical, main, jsonld }) => `<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(head)}</title>
 <meta name="description" content="${esc(desc)}">
+<!-- Verificacion de Bing Webmaster Tools. Va en la plantilla y no solo en la home: si algun dia
+     se regenera el sitio y se pisa index.html, la verificacion sobrevive en las otras 310. -->
+<meta name="msvalidate.01" content="45AD4C524EF3A8F79A223679DEC48F1D" />
 <link rel="canonical" href="${canonical}">
 <link rel="stylesheet" href="${BASE}/style.css">
 <style>
